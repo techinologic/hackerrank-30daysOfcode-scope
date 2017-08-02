@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 class Difference {
     public int maximumDifference = 0;
     private int[] elements;
